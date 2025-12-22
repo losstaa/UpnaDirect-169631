@@ -1,0 +1,18 @@
+./NetBeansProjects/UpnaDirect/src/upnadirect/Adasles.java:13:	LiteralsFirstInComparisons:	Position literals first in String comparisons
+./NetBeansProjects/UpnaDirect/src/upnadirect/Bien.java:8:	UseLocaleWithCaseConversions:	When doing a String.toLowerCase()/toUpperCase() call, use a Locale
+./NetBeansProjects/UpnaDirect/src/upnadirect/Bien.java:13:	LiteralsFirstInComparisons:	Position literals first in String comparisons
+./NetBeansProjects/UpnaDirect/src/upnadirect/Bien.java:16:	SimplifyBooleanReturns:	This if statement can be replaced by `return {condition} && {thenBranch};`
+./NetBeansProjects/UpnaDirect/src/upnadirect/Bien.java:16:	LiteralsFirstInComparisons:	Position literals first in String comparisons
+./NetBeansProjects/UpnaDirect/src/upnadirect/LineaIndirecta.java:13:	LiteralsFirstInComparisons:	Position literals first in String comparisons
+./NetBeansProjects/UpnaDirect/src/upnadirect/LineaIndirecta.java:13:	LiteralsFirstInComparisons:	Position literals first in String comparisons
+./NetBeansProjects/UpnaDirect/src/upnadirect/LineaIndirecta.java:17:	LiteralsFirstInComparisons:	Position literals first in String comparisons
+./NetBeansProjects/UpnaDirect/src/upnadirect/Mafro.java:13:	LiteralsFirstInComparisons:	Position literals first in String comparisons
+./NetBeansProjects/UpnaDirect/src/upnadirect/Mafro.java:17:	LiteralsFirstInComparisons:	Position literals first in String comparisons
+./NetBeansProjects/UpnaDirect/src/upnadirect/Oferta.java:21:	LiteralsFirstInComparisons:	Position literals first in String comparisons
+./NetBeansProjects/UpnaDirect/src/upnadirect/Oferta.java:23:	LiteralsFirstInComparisons:	Position literals first in String comparisons
+./NetBeansProjects/UpnaDirect/src/upnadirect/PresentadorOferta.java:3:	UnnecessaryImport:	Unused import 'upnadirect.*'
+./NetBeansProjects/UpnaDirect/src/upnadirect/ServicioOfertas.java:3:	UnnecessaryImport:	Unused import 'upnadirect.*'
+./NetBeansProjects/UpnaDirect/src/upnadirect/ServicioOfertas.java:19:	ForLoopCanBeForeach:	This for loop can be replaced by a foreach loop
+./NetBeansProjects/UpnaDirect/src/upnadirect/UpnaDirect.java:12:	UseUtilityClass:	All methods are static. Consider adding a private no-args constructor to prevent instantiation.
+./NetBeansProjects/UpnaDirect/src/upnadirect/VistaConsola.java:4:	UnnecessaryImport:	Unused import 'upnadirect.*'
+./NetBeansProjects/UpnaDirect/src/upnadirect/VistaConsola.java:16:	CloseResource:	Ensure that resources like this Scanner object are closed after use

@@ -10,7 +10,7 @@ public class Adasles implements Aseguradora {
         float porcentaje = 0.02f;
         int edad = c.getEdad(annoActual);
 
-        if (b.getTipo().equals("vehiculo") && (edad < 20 || edad > 60)) {
+        if (b.getTipo().equals("vehiculo") && (edad <= 20 || edad > 60)) {
             porcentaje = 0.06f;
         }
 
